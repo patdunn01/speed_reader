@@ -3,8 +3,7 @@ import "./App.css";
 import { useState } from "react";
 
 function App() {
-  // const [firstHalf, setfirstHalf] = useState([]);
-  // const [secondHalf, setsecondHalf] = useState([]);
+  
   const [text, setText] = useState([]);
 
   function handleFormSubmit(event) {
