@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speed_reader/static/css/main.88e6633c.css",
+    "main.js": "/speed_reader/static/js/main.47e62948.js",
+    "static/js/787.52460a9d.chunk.js": "/speed_reader/static/js/787.52460a9d.chunk.js",
+    "index.html": "/speed_reader/index.html",
+    "main.88e6633c.css.map": "/speed_reader/static/css/main.88e6633c.css.map",
+    "main.47e62948.js.map": "/speed_reader/static/js/main.47e62948.js.map",
+    "787.52460a9d.chunk.js.map": "/speed_reader/static/js/787.52460a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e6633c.css",
+    "static/js/main.47e62948.js"
+  ]
+}
