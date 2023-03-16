@@ -4,9 +4,9 @@ import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import App from './App';
 
-const root = ReactDOM.render(document.getElementById('root'));
-root.render(
-    <BrowserRouter>
+ReactDOM.render(
+  <BrowserRouter>
     <App />
-    </BrowserRouter>,
+  </BrowserRouter>,
+  document.getElementById('root')
 );
